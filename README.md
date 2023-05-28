@@ -1,4 +1,4 @@
-# Titanic-Dataset-Logistic-Regression
+# Titanic-Dataset
 
 ## Introduction:
 This project aims to predict the survival outcome of passengers on the Titanic using logistic regression. In order to achieve this, we perform exploratory data analysis, clean the dataset, impute missing values, select features, and train a logistic regression model.
